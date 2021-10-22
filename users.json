@@ -1,0 +1,9 @@
+{
+	"_id": "ghkasdfasdfhj33123",
+	"firstName": "Juan",
+	"lastName": "Tomas",
+	"email": "juantomas2013@mail.com",
+	"password": "123asd123",
+	"isAdmin": false,
+	"mobileNumber": "09298348344"
+}
